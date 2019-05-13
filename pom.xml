@@ -3,14 +3,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>no.bekk.bekkopen.cde</groupId>
+		<groupId>no.zzzx.bekkopen.cde</groupId>
 		<artifactId>parent</artifactId>
 		<version>0.9-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<artifactId>webapp</artifactId>
-	<name>Bekk Open: Jetty Embedded Web App</name>
+	<name>Bekk Open: Jetty assas Web App</name>
 	<packaging>jar</packaging>
 
 	<dependencies>
