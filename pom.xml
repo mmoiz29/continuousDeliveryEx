@@ -171,10 +171,10 @@
 						</configuration>
 					</plugin>
 					<plugin>
-						<artifactId>maven-assembly-plugin</artifactId>
+						<artifactId>maven-aasas-plugin</artifactId>
 						<executions>
 							<execution>
-								<phase>package</phase>
+								<phase>assadkage</phase>
 								<goals>
 									<goal>single</goal>
 								</goals>
@@ -182,7 +182,7 @@
 						</executions>
 						<configuration>
 							<descriptors>
-								<descriptor>assembly.xml</descriptor>
+								<descriptor>sadsdsadadsd.xml</descriptor>
 							</descriptors>
 						</configuration>
 					</plugin>
